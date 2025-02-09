@@ -10,8 +10,8 @@ This Node.js script automatically checks sent emails using IMAP and updates the 
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/shalu1529/email-reminder-app.git
-cd email-reminder-app
+- git clone https://github.com/shalu1529/email-reminder-app.git
+- cd email-reminder-app
 
 2️⃣ Install Dependencies
 
