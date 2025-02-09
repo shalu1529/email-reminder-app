@@ -48,16 +48,16 @@ node server.js
 
 🛠 Dependencies
 
-imap - Access Gmail via IMAP.
+- imap - Access Gmail via IMAP.
 
-mongoose - MongoDB ORM for handling database.
+- mongoose - MongoDB ORM for handling database.
 
-dotenv - Load environment variables securely.
+- dotenv - Load environment variables securely.
 
 📝 Important Notes
 
-Ensure IMAP access is enabled in your Gmail settings.
+- Ensure IMAP access is enabled in your Gmail settings.
 
-If using Gmail, consider OAuth authentication instead of a password for better security.
+- If using Gmail, consider OAuth authentication instead of a password for better security.
 
-Modify the interval duration inside the setInterval() function to adjust the frequency.
+- Modify the interval duration inside the setInterval() function to adjust the frequency.
